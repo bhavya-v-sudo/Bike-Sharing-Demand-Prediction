@@ -13,14 +13,10 @@
 <h2> :floppy_disk: Project Files Description</h2>
 
 <p>This Project includes 5 files as follows:</p>
-<h4>Input Files:</h4>
+<h4>Files:</h4>
 <ul>
-  <li><b>Bike_Sharing_Demand_Prediction_Capstone_Project.ipynb</b> - Includes all functions required for classification operations.</li>
+  <li><b>Bike_Sharing_Demand_Prediction_Capstone_Project.ipynb</b> - Includes all functions required for regression model.</li>
   <li><b>SeoulBikeData.csv</b> - Input CSV file.</li>
-</ul>
-
-<h4>Output Files:</h4>
-<ul>
   <li><b>CapstoneProjectTemplate.pdf</b> - Powerpoint presentation on the summary of the project.</li>
   <li><b>Technical documentation.pdf</b> - Detailed explanation of the approach of the project.</li>
   <li><b>Project Summary and team details.doc</b> - Project summary and the details on the challenges faced during the project. </li>
